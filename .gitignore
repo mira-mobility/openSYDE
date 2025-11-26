@@ -1,6 +1,6 @@
 # Build artifacts and temporary directories
-opensyde_syde_sup/temp/
-opensyde_syde_sup/temp_openssl_build/
+# opensyde_syde_sup/temp/
+# opensyde_syde_sup/temp_openssl_build/
 # opensyde_syde_sup/arm_sysroot/
 
 # CMake build files
