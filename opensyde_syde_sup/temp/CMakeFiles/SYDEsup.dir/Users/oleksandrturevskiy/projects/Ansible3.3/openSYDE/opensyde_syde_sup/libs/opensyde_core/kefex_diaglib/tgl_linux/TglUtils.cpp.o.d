@@ -1,0 +1,32 @@
+CMakeFiles/SYDEsup.dir/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/kefex_diaglib/tgl_linux/TglUtils.cpp.o: \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/kefex_diaglib/tgl_linux/TglUtils.cpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/cstring \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/aarch64-unknown-linux-gnu/bits/c++config.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/string.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/unistd.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/features.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/environments.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/types.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/stddef.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/confname.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/getopt.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/err.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/stdarg.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/pwd.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/stdio.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/climits \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/limits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/syslimits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/limits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/posix1_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/local_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/linux/limits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwtypes/stwtypes.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/kefex_diaglib/tgl_linux/TglUtils.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclString.hpp

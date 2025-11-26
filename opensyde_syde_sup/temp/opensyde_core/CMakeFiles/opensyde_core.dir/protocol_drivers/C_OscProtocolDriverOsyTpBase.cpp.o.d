@@ -1,0 +1,29 @@
+opensyde_core/CMakeFiles/opensyde_core.dir/protocol_drivers/C_OscProtocolDriverOsyTpBase.cpp.o: \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/protocol_drivers/C_OscProtocolDriverOsyTpBase.cpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../src/precomp_headers.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/iostream \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwtypes/stwtypes.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwerrors.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/protocol_drivers/C_OscProtocolDriverOsyTpBase.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/vector \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/deque \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/requires_hosted.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_algobase.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/allocator.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_construct.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_uninitialized.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_deque.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/concept_check.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_iterator_base_types.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_iterator_base_funcs.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/initializer_list \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/debug/assertions.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/refwrap.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/range_access.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/deque.tcc \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/memory_resource.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../libs/opensyde_core/kefex_diaglib/tgl_linux/TglTasks.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/pthread.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclDynamicArray.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclString.hpp
