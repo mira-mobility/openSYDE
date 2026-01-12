@@ -1,0 +1,7 @@
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/SYDEsup
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/sydesup_lib/libsydesuplib.so
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/sydesup_lib/C_SclString.hpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/sydesup_lib/C_SclDynamicArray.hpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/sydesup_lib/C_SydeSup.hpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/sydesup_lib/C_SydeSupLinux.hpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../result/raspberrypi64/sydesup_lib/stwtypes/stwtypes.hpp

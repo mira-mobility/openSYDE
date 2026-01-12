@@ -1,0 +1,15 @@
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/sydesuplib.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/SYDEsup.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/edit_cache.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/rebuild_cache.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/list_install_components.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/install.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/install/local.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/CMakeFiles/install/strip.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/opensyde_core.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/edit_cache.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/rebuild_cache.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/list_install_components.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/install.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/install/local.dir
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/temp/opensyde_core/CMakeFiles/install/strip.dir

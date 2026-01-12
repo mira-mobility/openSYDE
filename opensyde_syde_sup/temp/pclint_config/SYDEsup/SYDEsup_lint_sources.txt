@@ -1,0 +1,5 @@
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/src/C_SydeSup.cpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/src/C_SupSuSequences.cpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/src/C_SupCreatePackage.cpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/src/C_SydeSupLinux.cpp
+/Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/src/LinuxMain.cpp

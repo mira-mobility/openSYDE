@@ -1,0 +1,35 @@
+opensyde_core/CMakeFiles/opensyde_core.dir/project/C_OscProject.cpp.o: \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/project/C_OscProject.cpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../src/precomp_headers.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwtypes/stwtypes.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwerrors.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../libs/opensyde_core/kefex_diaglib/tgl_linux/TglUtils.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclString.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/project/C_OscProject.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclDateTime.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclString.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/xml_parser/C_OscXmlParser.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/list \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/xml_parser/tinyxml2/tinyxml2.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/cctype \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/aarch64-unknown-linux-gnu/bits/c++config.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/ctype.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/climits \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/limits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/syslimits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/limits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/features.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/posix1_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/local_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/linux/limits.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/cstdio \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/stdio.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/cstdlib \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/cstring \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/string.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/lib/gcc/aarch64-unknown-linux-gnu/13.3.0/include/stdint.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclChecksums.hpp

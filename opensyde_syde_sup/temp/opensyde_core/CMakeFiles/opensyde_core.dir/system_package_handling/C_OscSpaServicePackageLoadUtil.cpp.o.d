@@ -1,0 +1,29 @@
+opensyde_core/CMakeFiles/opensyde_core.dir/system_package_handling/C_OscSpaServicePackageLoadUtil.cpp.o: \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/system_package_handling/C_OscSpaServicePackageLoadUtil.cpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../src/precomp_headers.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../libs/opensyde_core/kefex_diaglib/tgl_linux/TglFile.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwtypes/stwtypes.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclString.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/scl/C_SclDynamicArray.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/stwerrors.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/C_OscUtils.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/C_OscZipFile.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/set \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/requires_hosted.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_tree.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_set.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/concept_check.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/initializer_list \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/stl_multiset.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/range_access.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/erase_if.h \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/bits/memory_resource.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/logging/C_OscLoggingHandler.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/fstream \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/include/c++/13.3.0/map \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../libs/opensyde_core/kefex_diaglib/tgl_linux/TglUtils.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../libs/opensyde_core/kefex_diaglib/tgl_linux/TglTime.hpp \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/pjt/../libs/opensyde_core/kefex_diaglib/tgl_linux/TglTasks.hpp \
+ /opt/homebrew/Cellar/aarch64-unknown-linux-gnu/13.3.0/toolchain/aarch64-unknown-linux-gnu/sysroot/usr/include/pthread.h \
+ /Users/oleksandrturevskiy/projects/Ansible3.3/openSYDE/opensyde_syde_sup/libs/opensyde_core/system_package_handling/C_OscSpaServicePackageLoadUtil.hpp
